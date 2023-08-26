@@ -17,7 +17,7 @@ public class ArrowPatternGenerator : MonoBehaviour
     private bool allDirectionsMatch;
     private bool isOnNext;
     private int currentSO;
-    
+    private int deneme;
     public MainMenuUI _mainMenuUI;
     public InGameUI InGameUI;
     public bool displayingArrows;
